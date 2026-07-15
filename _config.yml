@@ -4,16 +4,16 @@
 
 # Site
 title: myblog
-subtitle: ''
-description: ''
+subtitle: '一个碎碎念的地方,可以不断学习,无限进步.'
+description: 'yukina的博客'
 keywords:
 author: yukina
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://yukina-2006.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -45,7 +45,7 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
-  line_number: true
+  line_number: false
   auto_detect: false
   tab_replace: ''
   wrap: true
