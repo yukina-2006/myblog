@@ -4,7 +4,7 @@
   link_list:              # 当前分组下的友链列表
     # 第一条友链
     - name: ringo                # 网站/博主名称
-      link: http://47.104.189.4/?source_btm_token=a1128.b17614.c770171.d88956.e9b3b3f1e-82cc-4962-8669-00f2bbb21800&need_out_animation=right&finish_when_network_unavailable=false&bdx_monitor_append_params=%7B%22enter_from%22%3A%22im_safe_jump_to_web%22%7D&disable_auto_expose=1&enable_webview_select_search=1&font_scale=1.0&is_init_login=1&contact_permission=0&push_permission=0&bounce_disable=1&is_tab=0&launch_method=enter_launch&auto_play_bgm=0&show_more_button=1&show_loading=1&title=  # 网站跳转链接
+      link: http://47.104.189.4  # 网站跳转链接
       avatar: http://47.104.189.4/assets/hoshino.avif   # 头像图片地址（可以是图床链接、本地图片路径）
       descr: 可以进去玩  # 网站简介/描述
     # 第二条友链（再写一个 - name 即可）
